@@ -1,4 +1,4 @@
-# Calculator-Tutorial
+# Calculator
 Build a basic calculator with HTML, CSS, and JavaScript
 
 ## TLDR;
@@ -6,11 +6,6 @@ Build a basic calculator with HTML, CSS, and JavaScript
 - CSS grid
 - Vanilla JavaScript with arrow functions
 
-### Demo link:
-https://jeffclaybrook.github.io/Calculator-Tutorial/
-
-
-In this tutorial, you'll create a very basic calculator app using HTML, CSS, and Javascript. This tutorial is intended for beginners and anyone who appreciates clean symmetrical code.
 
 Overview
 - The calculator is styled using CSS grid
@@ -21,12 +16,5 @@ Overview
 - The show() function is used to type the corresponding value of the clicked button (represented as n in js file) into the input tag
 - The calc() function evaluates the value of the input tag and does the actual calculations
 
-IMPORTANT - in order for the calc() function to work, the buttons onclick function must have the appropriate operator assigned to it, i.e:
 
-/
-*
--
-+
-=
 
-Happy coding!
